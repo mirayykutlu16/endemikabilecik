@@ -1,0 +1,131 @@
+body{
+    margin: 0 auto;text-align: center; 
+    background-color: #F8F8FF;
+}
+
+
+
+header img {
+    
+    height: 200px;
+    background-color: #f8f8f8; /* Arka plan rengi */
+    
+}
+
+header h1{
+    padding-bottom: 50px;
+    font-size: 50px;
+   font-family: monospace;
+}
+
+#video{
+    display: none;
+    width: 300px;
+    height: 300px;
+    
+    
+}
+#video1{
+    display: none;
+    width: 300px;
+    height: 300px;
+    
+    
+}
+#video2{
+    display: none;
+    width: 300px;
+    height: 300px;
+    
+    
+}
+#video3{
+    display: none;
+    width: 300px;
+    height: 300px;
+    
+    
+}
+#video4{
+    display: none;
+    width: 300px;
+    height: 300px;
+    
+    
+}
+#video5{
+    display: none;
+    width: 300px;
+    height: 300px;
+    
+    
+}
+#video6{
+    display: none;
+    width: 300px;
+    height: 300px;
+    
+    
+}
+#video7{
+    display: none;
+    width: 300px;
+    height: 300px;
+    
+    
+}
+#video8{
+    display: none;
+    width: 300px;
+    height: 300px;
+    
+    
+}
+#video9{
+    display: none;
+    width: 300px;
+    height: 300px;
+    
+    
+}
+#video10{
+    display: none;
+    width: 300px;
+    height: 300px;
+    
+    
+}
+#video11{
+    display: none;
+    width: 300px;
+    height: 300px;
+    
+    
+}
+#video11{
+    display: none;
+    width: 300px;
+    height: 300px;
+    
+    
+}
+
+h1{
+    font-family: Arial, sans-serif; /* Yazı tipi */
+    font-size: 20px; /* Yazı boyutu */
+    color: #2a7b0f; /* Yazı rengi */
+    text-transform: uppercase; /* Büyük harf yapma */
+    letter-spacing: 2px; /* Harf aralığı */
+    float: center;
+}
+
+h2{
+    font-family: Arial, sans-serif; /* Yazı tipi */
+    font-size: 20px; /* Yazı boyutu */
+    color: #2a7b0f; /* Yazı rengi */
+    text-transform: uppercase; /* Büyük harf yapma */
+    letter-spacing: 2px; /* Harf aralığı */
+    float: center;
+}
+
+
